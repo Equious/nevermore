@@ -1,0 +1,1 @@
+A comprehensive guide to finding and proving a Denial of Service vulnerability in a Solidity smart contract. The lesson highlights a real-world example of a smart contract with a potential DOS vulnerability and then demonstrates how to write a Proof of Code to prove its existence. 

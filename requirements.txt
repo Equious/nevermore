@@ -1,0 +1,6 @@
+Click
+google-cloud-storage
+google-cloud-aiplatform
+protobuf>=3.19.5,<5.0.0dev
+asyncio
+setuptools

@@ -1,0 +1,1 @@
+A comprehensive guide to identifying and exploiting denial of service attacks on Solidity smart contracts. The lesson covers how to understand how gas usage is a key factor in DoS attacks and how to write a proof of code test in Foundry to demonstrate how to execute a DoS attack. 
