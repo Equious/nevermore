@@ -1,0 +1,18 @@
+gen-lang-client-0225468963-f266d584a284.json
+tests
+Test Vids
+Nevermore.egg-info
+NT.egg-info
+__pycache__
+updraft_cli.json
+Generated_Questions
+courses
+Backup
+node_modules
+
+*/.venv
+*.venv
+*/.env
+*/.txt
+*.txt
+*.env
